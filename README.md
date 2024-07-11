@@ -1,4 +1,5 @@
 # California-house-price-predictor
+## By Umer Tahir
 This project is a house price prediction tool for the state of California. Utilizing a regressor model, it trains and predicts house values based on various factors. Additionally, I have developed a simple web application that allows users to input values and obtain an estimated house price.
 ## Table of Contents
 
@@ -9,7 +10,6 @@ This project is a house price prediction tool for the state of California. Utili
 - [Model Training](#model-training)
 - [Data Analysis](#data-analysis)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
