@@ -63,7 +63,7 @@ The `model.ipynb` notebook contains the following steps:
     - Creating new features like `bedroom_ratio` and `household_rooms` to enhance model performance.
 
 3. **Model Training**:
-    - Training and evaluating various machine learning models (e.g., Linear Regression, Decision Tree, Random Forest).
+    - Training and evaluating various machine learning models (e.g., KNN, Decision Tree, Random Forest).
 
 4. **Model Selection and Saving**:
     - Selecting the best-performing model and saving it using `pickle` for deployment in the web application.
